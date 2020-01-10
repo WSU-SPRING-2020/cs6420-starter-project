@@ -33,7 +33,7 @@ dependencies {
 
 application {
     // Define the main class for the application.
-    mainClassName = 'cs6420/.sample_app.App'
+    mainClassName = 'cs6420.sample_app.App'
 }
 
 test {
